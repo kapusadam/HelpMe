@@ -13,3 +13,8 @@ npm install -g karma-cli
 Practices:
 injector practice
 lodashPractice
+
+branching
+git checkout -b branch_name
+git push origin [name_of_your_new_branch]
+
