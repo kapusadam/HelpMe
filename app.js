@@ -23,7 +23,6 @@ myApp.controller('GreetingController', ['$scope', function ($scope) {
         '<a href="#">links!</a> and other <em>stuff</em>';
     lodashPractice();
     //injectorPractice($scope);
-
 }]);
 
 myApp.directive("myDir", function ($compile, greeting) {

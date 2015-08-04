@@ -9,3 +9,7 @@ npm install phantomjs
 npm install karma-phantomjs-launcher --save-dev
 npm install grunt-karma --save-dev
 npm install -g karma-cli
+
+Practices:
+injector practice
+lodashPractice
